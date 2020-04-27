@@ -6,4 +6,5 @@ Weiße, A. Y., Oyarzún, D. A., Danos, V., & Swain, P. S. (2015). Mechanistic li
 Files:
 1) cellmodel_Driver.m & cellmodel_odes.m - Files to run the original model from the paper
 2) cellmodel_Driver_MolarParamSpecies.m - File includes parameters and initial species values in concentration-based units
+3,4) Annotated files: contain a thorough annotation of the original code from the paper with the 'zombie' species being removed for clarity. Recommended to look at these when starting out with this code.
 
